@@ -1,0 +1,10 @@
+./temp/cut_pic_get_last_dataset/frame_0.jpg
+./temp/cut_pic_get_last_dataset/frame_1.jpg
+./temp/cut_pic_get_last_dataset/frame_2.jpg
+./temp/cut_pic_get_last_dataset/frame_3.jpg
+./temp/cut_pic_get_last_dataset/frame_4.jpg
+./temp/cut_pic_get_last_dataset/frame_5.jpg
+./temp/cut_pic_get_last_dataset/frame_6.jpg
+./temp/cut_pic_get_last_dataset/frame_7.jpg
+./temp/cut_pic_get_last_dataset/frame_8.jpg
+./temp/cut_pic_get_last_dataset/frame_9.jpg
